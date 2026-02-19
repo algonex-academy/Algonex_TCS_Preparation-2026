@@ -1,1 +1,135 @@
+Exam Structure (Quick Recap)
 
+Part A – Foundation (75 mins)
+- Numerical Ability
+- Reasoning Ability
+- Verbal Ability
+
+Part B – Advanced (115 mins)
+- Advanced Quant + Reasoning
+- Advanced Coding (Mandatory for Digital/Prime)
+
+1. Numerical Ability (Foundation) –  ~30–35% Weightage
+ Topic                       Weightage   Priority 
+ Percentages                | 8–10%     |  High  
+ Ratio & Proportion         | 7–9%      |  High  
+ Averages                   | 6–8%      |  High  
+ Profit & Loss              | 6–8%      |  High  
+ Simple & Compound Interest | 5–6%      |  High  
+ Time & Work                | 5–6%      |  High  
+ Time, Speed & Distance     | 5–6%      |  High  
+
+ Topic                   Weightage 
+ Mixtures & Alligations | 3–4%      
+ Partnership            | 2–3%      
+ Number System          | 3–4%      
+ HCF & LCM              | 2–3%      
+ Divisibility Rules     | 1–2%      
+
+ Topic                     Weightage 
+ Simplification           | 1–2%      
+ Data Interpretation (DI) | 3–4%      
+
+2. Reasoning Ability (Foundation) –  ~30% Weightage
+High Weight Topics
+ Topic                     Weightage   
+ Number / Alphabet Series | 6–8%             
+ Coding-Decoding          | 5–6%             
+ Blood Relations          | 4–5%            
+ Direction Sense          | 4–5%             
+ Syllogisms               | 4–5%             
+ Seating Arrangement      | 5–6%            
+
+Medium Weight Topics
+ Topic                   Weightage 
+ Analogy                | 3–4%      
+ Odd One Out            | 2–3%      
+ Venn Diagrams          | 2–3%      
+ Statement & Conclusion | 2–3%      
+
+Low Weight Topics 
+ Topic                Weightage 
+ Clocks & Calendars | 1–2%      
+ Puzzles (Complex)  | 2–3%      
+
+3. Verbal Ability (Foundation) ~30–35% Weightage
+High Weight Topics
+ Topic                  Weightage 
+ Reading Comprehension | 10–12%    
+ Error Detection       | 6–8%      
+ Fill in the Blanks    | 5–6%      
+ Sentence Correction   | 4–5%     
+ Para Jumbles          | 4–5%     
+
+ Topic               | Weightage 
+ Synonyms / Antonyms | 3–4%      
+ Cloze Test          | 3–4%      
+ Vocabulary          | 3–4%      
+
+4. Advanced Quant + Reasoning –  Prime / Digital Level
+High Weight Topics (Main Differentiator for Prime/Digital)
+ Topic                                             Weightage 
+ Advanced Percentages + Ratios                  | 10–12%    
+ Advanced Time & Work                           | 8–10%     
+ Advanced Speed, Time, Distance                 | 8–10%     
+ Data Interpretation (Caselets, Tables, Graphs) | 10–12%    
+ Logical Puzzles (Multi-step)                   | 10–12%    
+ Probability & Permutation Combination          | 6–8%      
+ Linear Equations & Inequalities                | 5–6%      
+
+5. Advanced Coding (Most Important for Digital & Prime) –  ~40–50% Selection Impact
+Core Coding Topics (90% of Coding Questions SPARK)
+ Topic                                    Weightage 
+ Arrays                                | 20%      
+ Strings                               | 20%          
+ Basic Recursion                       | 8%        
+ Loops & Conditions                    | 10%     
+ Functions                             | 7%       
+ Searching (Linear, Binary)            | 8%        
+ Sorting (Bubble, Selection, Built-in) | 7%        
+ Pattern Problems                      | 5%        
+ Time Complexity Basics                | 5%        
+
+Bonus (If Time Permits – For Prime Aspirants)
+ Topic                   
+- Hashing (Basics)        
+- Stack / Queue (Intro)   
+- Simple DSA Logic        
+- Input/Output Edge Cases 
+
+Coding languages allowed: C / C++ / Java / Python
+Aim: Solve 2 full coding problems in 90 mins
+
+Smart Preparation Priority (What to Do First)
+Must-Focus (80% Selection Impact)
+- Percentages
+- Ratios
+- Averages
+- Time & Work
+- Series
+- Coding-Decoding
+- Reading Comprehension
+- Arrays + Strings (Coding)
+
+Important (15% Edge)
+- DI
+- Seating Arrangement
+- Advanced Quant
+- Recursion
+- Binary Search
+
+Optional (5%)
+- Clocks
+- Calendars
+- Rare puzzles
+
+TCS NQT 2026 Complete Syllabus & Weightage Ready
+Focus Areas:
+Quant: Percentages, Ratio, Averages, Time & Work
+Reasoning: Series, Coding-Decoding, Seating
+Verbal: RC, Grammar, Para Jumbles
+Coding: Arrays, Strings, Sorting, Searching
+
+For Digital/Prime → Advanced Coding is Mandatory
+Follow a 30-day plan → Daily 2 coding problems + 1 mock
+Consistency = Selection SPARK
